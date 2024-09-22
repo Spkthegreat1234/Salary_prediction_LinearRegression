@@ -23,7 +23,7 @@ To run the project, you'll need the following Python packages:
 Install the required packages using the following command:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy/pandas/matplotlib/scikit-learn
 ```
 
 ## 📁 Dataset
